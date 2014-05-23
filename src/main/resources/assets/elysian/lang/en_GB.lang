@@ -1,0 +1,33 @@
+# British Lang File for Elysian
+
+# Misc
+itemGroup.elysian=Elysian
+
+# Items
+item.elysian.tarotCard.name=Tarot Card
+item.elysian.pattern.name=Pattern
+item.elysian.tarrotBook.name=Tarot Book
+item.elysian.keyStone.fire.name=Fire Keystone
+item.elysian.keyStone.water.name=Water Keystone
+item.elysian.keyStone.earth.name=Earth Keystone
+item.elysian.keyStone.wind.name=Wind Keystone
+item.elysian.keyStone.light.name=Light Keystone
+item.elysian.keyStone.darkness.name=Darkness Keystone
+item.elysian.keyStone.life.name=Life Keystone
+
+# Blocks/Tiles
+tile.elysian.cobble.name=Cobblestone
+tile.elysian.stone.name=Stone
+tile.elysian.grass.name=Grass
+tile.elysian.log.name=Log
+tile.elysian.dirt.name=Dirt
+tile.elysian.portal.name=Portal
+tile.elysian.frame.name=Frame
+tile.elysian.moss.name=Mossy Cobblestone
+tile.elysian.chiselBlock.name=Holo Table
+tile.elysian.pileOfRocks.name=Rock Pile
+
+# Entities
+entity.ElysianGreenDragon.name=Wyvrn
+entity.ElysianDragonfly.name=Dragonfly
+entity.ElysianRuneGolem.name=Rune Golem

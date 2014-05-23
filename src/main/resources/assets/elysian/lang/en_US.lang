@@ -1,0 +1,34 @@
+itemGroup.elysian=Elysian
+
+item.elysian.tarotCards.name=Tarot Card
+item.elysian.pattern.name=Pattern
+item.elysian.tarrotBook.name=Tarot Book
+item.elysian.keyStone.fire.name=Keystone Of Fire
+item.elysian.keyStone.water.name=Keystone Of Water
+item.elysian.keyStone.earth.name=Keystone Of Earth
+item.elysian.keyStone.wind.name=Keystone Of Wind
+item.elysian.keyStone.light.name=Keystone Of Light
+item.elysian.keyStone.darkness.name=Keystone Of Darkness
+item.elysian.keyStone.life.name=Keystone Of Life
+item.runeAxe.name=Rune Axe
+item.runeAxeDepleted.name=Depleted Rune Axe
+item.runePickaxe.name=Rune Pickaxe
+item.runePickaxeDepleted.name=Depleted Rune Pickaxe
+item.runeSpade.name=Rune Spade
+item.runeSpadeDepleted.name=Depleted Rune Spade
+item.elysian.runicComponent.name=Runic Essence
+
+tile.elysian.cobble.name=Cobble Stone
+tile.elysian.stone.name=Stone
+tile.elysian.grass.name=Grass
+tile.elysian.log.name=Tree Log
+tile.elysian.dirt.name=Dirt
+tile.elysian.portal.name=Portal
+tile.elysian.frame.name=Frame
+tile.elysian.moss.name=Mossy Cobble Stone
+tile.elysian.chiselBlock.name=Holo Table
+tile.elysian.pileOfRocks.name=Pile Of Rocks
+
+entity.ElysianGreenDragon.name=Wyvrn
+entity.ElysianDragonfly.name=Dragonfly
+entity.ElysianRuneGolem.name=Rune Golem

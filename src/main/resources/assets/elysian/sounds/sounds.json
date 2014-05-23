@@ -1,0 +1,20 @@
+{
+"roar1" :
+{"category": "master","sounds": [{"name": "roar","stream": false}]},
+"roar2" :
+{"category": "master","sounds": [{"name": "roar","stream": false}]},
+"roar3" :
+{"category": "master","sounds": [{"name": "roar","stream": false}]},
+
+"growl3" :
+{"category": "master","sounds": [{"name": "growl","stream": false}]},
+"growl1" :
+{"category": "master","sounds": [{"name": "growl","stream": false}]},
+"growl2" :
+{"category": "master","sounds": [{"name": "growl","stream": false}]},
+
+"death" :
+{"category": "master","sounds": [{"name": "death","stream": false}]}
+
+
+}
